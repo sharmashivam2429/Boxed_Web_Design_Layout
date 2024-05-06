@@ -21,8 +21,5 @@ To run this webpage locally, follow these steps:
 4. Customize the HTML content in the `index.html` file as needed.
 
 
-## Credit
-This webpage layout project was created as part of my learning journey in the field of full-stack development
-This project is a tribute to the knowledge and inspiration I gained from his course.
 
 
